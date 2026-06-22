@@ -1,0 +1,24 @@
+mql-insights-enterprise/
+│
+├── app.py
+├── requirements.txt
+│
+├── auth/
+│   └── login.py
+│
+├── backend/
+│   ├── data_processor.py
+│   ├── analytics_engine.py
+│   ├── smart_analytics.py
+│
+├── frontend/
+│   └── dashboard.py
+│
+├── utils/
+│   └── export.py
+│
+├── reports/
+│   └── pdf_generator.py
+│
+└── config/
+    └── settings.py
